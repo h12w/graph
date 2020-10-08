@@ -5,8 +5,9 @@
 package graph
 
 import (
-	"github.com/hailiang/go-nauty"
 	"sort"
+
+	"h12.io/go-nauty"
 )
 
 type WeakCompFinder struct {

@@ -5,7 +5,7 @@
 package graph
 
 import (
-	"go-gsl/stats"
+	"h12.io/go-gsl/stats"
 )
 
 // Assortativity Coefficient of graph g from vertex v to w
